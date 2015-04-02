@@ -35,6 +35,7 @@ http://blog.thoughtram.io/angularjs/2015/02/19/futuristic-routing-in-angular.htm
 
 Use Case : https://docs.google.com/document/d/1PtaIi4YfgVRlbV4-LiOdhQAqqUAn6PT8__Epdq7yLVQ/edit
 Create Component : http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html
+https://www.airpair.com/angularjs/posts/creating-components-p3-angular2-directives
 
 ## Repo
 
